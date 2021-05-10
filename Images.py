@@ -1,4 +1,4 @@
-
+# This is the list of images which are going to be part of game. 
 ImgList = ["Emj1.PNG", 
            "Emj2.PNG" , 
            "Emj3.PNG", 
